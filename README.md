@@ -14,6 +14,8 @@ I am a Data Scientist with a passion for data analysis, machine learning, and pr
 - **[Car Model Regression](https://github.com/BektenKozhonov/car-model-classification/blob/main/Car_final_draft.ipynb)**: Analyzing and predicting car price using linear regression and Decision Trees. (3rd place on [Kaggle](https://www.kaggle.com/competitions/car-valuation-competition) Competition)
 - **[YouTube Analysis](https://github.com/BektenKozhonov/DS_getting_education/blob/main/project_youtube.ipynb)**: Analyzing and clustering features using K-means, DBSCAN, and EM.
 - **[NeurIPS 2024 - Predict New Medicines with BELKA](https://github.com/BektenKozhonov/leash-BELKA/blob/main/leash-BELKA_OLIMPIAD.ipynb)**: The competition aims to develop machine learning models to predict the binding affinity of small molecules to proteins using a dataset that includes molecular structures in SMILES format and binding information with three proteins. Participants are encouraged to explore various chemical representations and predictive modeling techniques to optimize performance, evaluated by metrics like accuracy, precision, recall, and F1-score.
+- **[TolgonAI](https://github.com/BektenKozhonov/TolgonAI.git)**: This project is currently in the ideation stage and has the potential to grow into a real startup. TolgonAI is a voice assistant designed specifically for adults, offering psychological support and assistance. The aim is to provide accessible mental health resources through advanced AI technologies, improving the well-being and quality of life for users.
+
 
 ****
 ## Skills
