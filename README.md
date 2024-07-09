@@ -10,11 +10,12 @@ I am a Data Scientist with a passion for data analysis, machine learning, and pr
 
 ## My Projects
 
-- **[Wine Quality Classification](https://colab.research.google.com/drive/1blErnr45fYCVRcV3kHJwdSTjkvkuqlX4?usp=sharing)**: Analyzing and predicting wine quality using logistic regression and Decision Trees. (2nd place on [Kaggle](https://www.kaggle.com/competitions/wine-quality-classification-challenge) Competition)
-- **[Car Model Regression](https://colab.research.google.com/drive/1oTvKoqtRR5p7RVWwe5EBzIyVQZBau0TQ?usp=sharing)**: Analyzing and predicting car price using linear regression and Decision Trees. (3rd place on [Kaggle](https://www.kaggle.com/competitions/car-valuation-competition) Competition)
-- **[YouTube Analysis](https://colab.research.google.com/drive/1M42rK2o6K_wNxFxK4beHaNTZ0SNx-AOq?usp=sharing)**: Analyzing and clustering features using K-means, DBSCAN, and EM.
+- **[Wine Quality Classification](https://github.com/BektenKozhonov/wine_quality_clasification/blob/main/wine_draft_classification.ipynb)**: Analyzing and predicting wine quality using logistic regression and Decision Trees. (2nd place on [Kaggle](https://www.kaggle.com/competitions/wine-quality-classification-challenge) Competition)
+- **[Car Model Regression](https://github.com/BektenKozhonov/car-model-classification/blob/main/Car_final_draft.ipynb)**: Analyzing and predicting car price using linear regression and Decision Trees. (3rd place on [Kaggle](https://www.kaggle.com/competitions/car-valuation-competition) Competition)
+- **[YouTube Analysis](https://github.com/BektenKozhonov/DS_getting_education/blob/main/project_youtube.ipynb)**: Analyzing and clustering features using K-means, DBSCAN, and EM.
+- **[NeurIPS 2024 - Predict New Medicines with BELKA](https://github.com/BektenKozhonov/leash-BELKA/blob/main/leash-BELKA_OLIMPIAD.ipynb)**: The competition aims to develop machine learning models to predict the binding affinity of small molecules to proteins using a dataset that includes molecular structures in SMILES format and binding information with three proteins. Participants are encouraged to explore various chemical representations and predictive modeling techniques to optimize performance, evaluated by metrics like accuracy, precision, recall, and F1-score.
 
-
+****
 ## Skills
 
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
