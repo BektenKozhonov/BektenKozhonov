@@ -40,9 +40,3 @@ I am a Data Scientist with a passion for data analysis, machine learning, and pr
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kozhonov1@gmail.com)
 
 
-## Fun Fact
-
-I am a huge fan of Marvel and Star Wars, and I love combining my data science skills with my interests in these universes!
-<p align="center"><img src="fotor-ai-20240619162925.jpg" width="600" height= "200"></p>
-
-
